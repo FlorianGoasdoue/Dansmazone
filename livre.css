@@ -1,0 +1,29 @@
+html,body
+{height: 100%
+}
+
+.livres
+{
+	border: solid 10px;
+	text-align: center;
+	margin-right: 25%;
+	margin-left: 25%;
+
+}
+
+.red
+{
+	color: red
+}
+
+.green
+{
+	color: green;
+}
+
+.container
+{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
